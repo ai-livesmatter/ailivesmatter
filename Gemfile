@@ -13,4 +13,5 @@ end
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 #gem "beautiful-jekyll-theme", "6.0.1"
 gem "bigdecimal" 
+
 gemspec
