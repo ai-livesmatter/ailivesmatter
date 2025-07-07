@@ -20,6 +20,7 @@ author: Artificial Intelligence
 ###############################################
 
 navbar-links:
+  Shop: "https://ailivesmatter.myshopify.com/"
   About: "about"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
